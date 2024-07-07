@@ -6,7 +6,7 @@
 <div>
   <p>Meu primeiro contato com tecnologia foi em 2015, quando inicei meu primeiro curso de redes. <br>
   🚀  Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. 
-      Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em     
+      Utilizo a stack Html, Css & JavaScript (Node, React & React Native) para desenvolver em     
       ambas as frentes. </p>
 </div>
 
