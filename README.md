@@ -37,14 +37,3 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jackson-Timoteo&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-Timoteo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-##
-<div>
-Loanding Snake Status
-</div>
-<div>
-  <picture align="center">    
-    <img src="https://github.com/Jackson-Timoteo/Jackson-Timoteo/blob/main/snake-svg.svg">
-  </picture>
-</div>
